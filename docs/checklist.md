@@ -63,3 +63,12 @@ library.
     - [ ] Create Gerber files
     - [ ] Verify Gerber files
     - [ ] Upload Gerber files to manufacturer
+
+## Enclosure design
+
+- [ ] Make an enclosure
+- [ ] 3D print and test
+
+## Definition of Done
+
+Write down DoD as a guide so you know when you've finished this project for good.
